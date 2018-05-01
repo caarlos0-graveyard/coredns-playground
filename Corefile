@@ -1,0 +1,8 @@
+carlos.ai {
+	file db.carlos.ai
+	prometheus	# enable metrics
+	errors		# show errors
+	log		# enable query logs
+	cache 10	# TTL of 10secs
+}
+
